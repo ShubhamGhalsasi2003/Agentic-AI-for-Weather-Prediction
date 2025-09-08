@@ -1,5 +1,3 @@
-![1755954904470](https://github.com/user-attachments/assets/cb465c24-ee94-4fa1-b54d-068563742656)
-
 # Project: Agentic AI Weather Detection System
 
 ##Description
